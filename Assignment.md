@@ -122,5 +122,4 @@ Given a user query, retrieved context and generated answer, evaluate the quality
 
 ### Suggested Models
 
-- No model required.
-- Optional LLM-as-judge: Gemini Flash model.
+-  Gemini Flash model.
